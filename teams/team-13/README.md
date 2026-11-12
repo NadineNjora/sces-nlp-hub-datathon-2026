@@ -5,9 +5,9 @@ A text request router for Kikuyu: ten fixed intents, a small reviewed dataset, a
 - **Team:** Nadine Njora; Wanyingi Shirleen Muthoni; Celestine Nyingi.
 - **Original source repository:** https://github.com/NadineNjora/team13-kikuyu-intent-classification
 - **Frozen full source commit SHA:** recorded in the central submission README and submission manifest; the central PR is the submission receipt.
-- **Public app:** https://team13-gikuyu-lab-nadine.leaninn1.chatgpt.site
-- **Viewable 2:10 backup/demo video:** https://team13-gikuyu-lab-nadine.leaninn1.chatgpt.site/demo.html (captioned automated walkthrough, no human narration).
-- **Human three-speaker recording script:** [DEMO_SCRIPT.md](DEMO_SCRIPT.md).
+## Demo Video
+Watch our  presentation and live demo here: https://www.loom.com/share/7c5163a6c03c4132ab08cbc60355914d
+
 - **User-edited Colab:** https://colab.research.google.com/drive/1AammOdAro-P--_l1mp5X94m8nnnKdxHw?usp=sharing
 
 ## Data and independent review
